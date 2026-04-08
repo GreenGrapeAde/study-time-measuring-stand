@@ -48,7 +48,7 @@
 
 - STM32F107VCT6 보드
 - IAR Embedded Workbench
-- C 언어 (로우레벨 방식, HAL 미사용)
+- C 언어 (SPL 방식, HAL 미사용)
 - Windows 환경 + Putty (Bluetooth Serial 출력 확인)
 
 ---
